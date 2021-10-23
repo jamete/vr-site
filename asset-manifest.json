@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/vr-site/static/css/main.0ec1308d.chunk.css",
+    "main.js": "/vr-site/static/js/main.7a222f0e.chunk.js",
+    "main.js.map": "/vr-site/static/js/main.7a222f0e.chunk.js.map",
+    "runtime-main.js": "/vr-site/static/js/runtime-main.4805ac55.js",
+    "runtime-main.js.map": "/vr-site/static/js/runtime-main.4805ac55.js.map",
+    "static/js/2.44621c8a.chunk.js": "/vr-site/static/js/2.44621c8a.chunk.js",
+    "static/js/2.44621c8a.chunk.js.map": "/vr-site/static/js/2.44621c8a.chunk.js.map",
+    "index.html": "/vr-site/index.html",
+    "static/css/main.0ec1308d.chunk.css.map": "/vr-site/static/css/main.0ec1308d.chunk.css.map",
+    "static/js/2.44621c8a.chunk.js.LICENSE.txt": "/vr-site/static/js/2.44621c8a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/vr-site/static/media/vr-w-text.de84a04f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4805ac55.js",
+    "static/js/2.44621c8a.chunk.js",
+    "static/css/main.0ec1308d.chunk.css",
+    "static/js/main.7a222f0e.chunk.js"
+  ]
+}
