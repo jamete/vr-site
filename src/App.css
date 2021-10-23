@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  background: url(./vr-w-text.png) no-repeat center fixed;
+  background-size: cover;
+  position: relative;
+  min-height: 100vh;
+}
+.overlay {
+  background: rgba(3, 3, 3, 0.3);
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.App-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+ul{
+  display: flex;
+  justify-content: space-around;
+}
+li{
+  display: block;
+  margin: 2vh;
+  list-style: none;
+}
+.title-container{
+  font-family: 'Space Mono', monospace;
+}
